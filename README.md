@@ -1,4 +1,4 @@
-## SENAi-SP
+## SENAI-SP
 
 ### Modelagem de sistema de cadastro de clientes, com base nos critérios solicitados na atividade.
 
